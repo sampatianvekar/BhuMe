@@ -4,7 +4,7 @@
 
 - **Claude (Anthropic claude.ai)** — used throughout for problem understanding,
   pipeline design, code writing, debugging, and iteration:
-  *(paste your conversation URL here before submitting)*
+  https://claude.ai/share/b6defa9b-e835-4302-a59f-85cf28ba9a93
 
 ## How AI was used
 
